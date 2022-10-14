@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.bummy_content {
+    padding: 10px;
+    width: 80%;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+/* styles start form here  copy form here */
+
+.user_table table{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.user_table table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+  }
+
+  .user_table th {
+    background-color: #7277b1;
+  }
